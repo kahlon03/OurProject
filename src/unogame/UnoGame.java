@@ -8,6 +8,7 @@ package unogame;
  *
  * @author amrinder
  * editor Gurkirat Singh
+ and lovish 
  */
 public class UnoGame {
 
