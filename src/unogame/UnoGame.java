@@ -7,6 +7,7 @@ package unogame;
 /**
  *
  * @author amrinder
+ * editor Gurkirat Singh
  */
 public class UnoGame {
 
